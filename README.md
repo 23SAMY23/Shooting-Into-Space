@@ -1,4 +1,4 @@
-# GameDev_WiSe2020
+# Shooting Into Space
 
 This is our repository for development and for submitting our files. Therefore, some things have to be considered.
 
