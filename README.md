@@ -1,6 +1,8 @@
 # Shooting Into Space
 
 This is our repository for development and for submitting our files. Therefore, some things have to be considered.
+## Promo
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=yoYUU2O-0G8&ab_channel=SameerKazmi)
 
 ## Folders
 
