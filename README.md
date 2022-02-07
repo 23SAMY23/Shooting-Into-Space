@@ -2,7 +2,7 @@
 
 This is our repository for development and for submitting our files. Therefore, some things have to be considered.
 ## Promo
-[![Watch the video](https://github.com/23SAMY23/Shooting-Into-Space/blob/main/code/Shooting%20INTO%20Space/Assets/%3Dimages/LOGO.png)](https://www.youtube.com/watch?v=yoYUU2O-0G8&ab_channel=SameerKazmi)
+[![Watch the video](https://www.google.com/search?q=youtube&sxsrf=APq-WBsCM8a5X5X6iblgSiXvER7mikhREA:1644254980797&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjOlbOQj-71AhXlQ_EDHWY_DdAQ_AUoAnoECAIQBA&biw=1536&bih=746&dpr=1.25#imgrc=1t3pvucsJ6D-7M)](https://www.youtube.com/watch?v=yoYUU2O-0G8&ab_channel=SameerKazmi)
 
 ## Folders
 
